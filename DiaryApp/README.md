@@ -7,4 +7,4 @@ I will do this on my spare time.</br></br>
 The realesed version is avalibel in directory.</br>
 https://github.com/KarlqvistLars/DiaryApp/tree/main/testRealese
 </br></br>
-![alt text](/pics/diaryAppGUIv2.png)
+![alt text](DiaryApp//pics/diaryAppGUIv2.png)
