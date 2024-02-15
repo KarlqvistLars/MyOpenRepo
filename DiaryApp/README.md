@@ -6,3 +6,5 @@ I will do this on my spare time.</br></br>
 # Status is: Realesed version 1.1.
 The realesed version is avalibel in directory.</br>
 https://github.com/KarlqvistLars/MyOpenRepo/tree/main/DiaryApp/testRealese
+# Realese 1.2 can be found here
+https://github.com/KarlqvistLars/DiaryApp
