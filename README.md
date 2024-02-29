@@ -10,4 +10,4 @@ My homepage
 
 Contains:<br/>
 - The homepage: www.lkarlqvist.se<br/>
-- Demo part where i experiment with som react js functions: www.lkarlqvist.se/#/music
+- Demo part where I experiment with som react js functions: www.lkarlqvist.se/#/music
