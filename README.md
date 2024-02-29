@@ -2,14 +2,12 @@
 Repo for display of previous work
 
 Some small project:
-
 PasswordGenerator - Is a program to generate random passwords.
-
 DiaryApp - Is a exercise in Java to create diary posts in .txt formats.
 
 # HomePageLK
-Min egen hemsida
+My homepage
 
-Består av:<br/>
-- Förklarade del: www.lkarlqvist.se<br/>
-- Del som kom till på Joels förfrågan: www.lkarlqvist.se/lasagne
+Contains:<br/>
+- The homepage: www.lkarlqvist.se<br/>
+- Demo part where i experiment with som react js functions: www.lkarlqvist.se/music
