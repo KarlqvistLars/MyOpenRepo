@@ -7,5 +7,6 @@ unsafe = true
   </head>
   <body>
     <p>Hello world!</p>
+    <a href="">
   </body>
 </html>
