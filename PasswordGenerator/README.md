@@ -1,4 +1,6 @@
-{{ define "html" }}
+[markup.goldmark.renderer]
+unsafe = true
+{{ define "main" }}
 <!DOCTYPE html>
 <html>
   <head>
