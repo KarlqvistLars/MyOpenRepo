@@ -1,4 +1,4 @@
-```html
+{{ define "main" }}
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,4 +8,4 @@
     <p>Hello world!</p>
   </body>
 </html>
-```
+{{end}}
