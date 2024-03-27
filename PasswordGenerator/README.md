@@ -1,6 +1,5 @@
 [markup.goldmark.renderer]
 unsafe = true
-{{ define "main" }}
 <!DOCTYPE html>
 <html>
   <head>
@@ -10,4 +9,3 @@ unsafe = true
     <p>Hello world!</p>
   </body>
 </html>
-{{end}}
