@@ -1,13 +1,6 @@
-[markup.goldmark.renderer]
-unsafe = true
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>This is a title</title>
-  </head>
-  <body>
-    <p>Hello world!</p>
-    <a href="Disclamer.html">
-  </body>
-</html>
-[Disclamer](Disclamer.html)
+# PasswordGenerator
+A little handy tool written in C# in Visual Studio.
+Free to use for those who like it.
+This is written and tested on a Windows 11 system.
+
+[Disclamer](disclamer.md)
