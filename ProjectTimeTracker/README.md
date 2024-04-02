@@ -5,9 +5,8 @@ Det ska vara enkelt att komma igång och skapa projekt att mäta arbetet i och t
 
 # Uppdatering till ver 1.5 20240402
 <br/>
-![LK icon](assets/logo.png)
-![LK icon](assets/logo.png)
-<br/><br/>
+![LK icon](assets/logo.png)<br/>
+<br/>
 # Manual
 [Manual ProjectTimeTracker 1.1](assets/Manual_ProjectTimeTracker_1.5_20240402.pdf)
 
