@@ -4,7 +4,7 @@ The plan for this projekt is to first just create a working version of the progr
 the code to full object oriented code so the vistors of this repository can see and follow the progress of the programming work. 
 I will do this on my spare time.</br></br>
 # Status is: Realesed version 1.1.
-[Manual DiaryApp 1.1](DiaryApp/testRealese/ManualDiaryAppVersion1.1_20220529.pdf)
+[Manual DiaryApp 1.1](DiaryApp/testRealese/ManualDiaryAppVersion1.1_20220529.pdf)<br/>
 The realesed version is avalibel in directory.</br>
 https://github.com/KarlqvistLars/MyOpenRepo/tree/main/DiaryApp/testRealese
 # Realese 1.2 can be found here
