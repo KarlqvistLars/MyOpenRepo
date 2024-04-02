@@ -12,6 +12,8 @@ Det ska vara enkelt att komma igång och skapa projekt att mäta arbetet i och t
 
 # Download
 
+[Download Project TimeTracker 1.5](ProjectTimeTracker/assets/ProjectTimeTrackerSetup_1.5_20240402.msi)
+
 <br/>
 Download ProjectTimeTracker 1.5<br/>
 [Download ProjectTimeTracker 1.5](assets/ProjectTimeTrackerSetup_1.5_20240402.msi)
