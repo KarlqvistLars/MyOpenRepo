@@ -9,9 +9,11 @@ Det ska vara enkelt att komma igång och skapa projekt att mäta arbetet i och t
 # Manual
 
 [Manual Project Time Tracker 1.5](assets/Manual_ProjectTimeTracker_1.5_20240402.pdf)
+-
 <br/>
 
 # Download
 
 [Download Project TimeTracker 1.5](ProjectTimeTracker/assets/ProjectTimeTrackerSetup_1.5_20240402.msi)
+-
 
