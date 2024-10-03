@@ -11,5 +11,5 @@ Nytt licensdatum satt till 2025-01-31.<br/>
 
 [Manual Project Time Tracker 1.5](assets/Manual_ProjectTimeTracker_1.5_20240402.pdf)
 -
-[Download Project TimeTracker 1.5.1](assets/TimeTrackerSetup_1.5.1_Setup20240612.msi)
+[Download Project TimeTracker 1.5.1](assets/TimeTrackerSetup20241003.msi)
 -
