@@ -7,7 +7,7 @@ Det ska vara enkelt att komma igång och skapa projekt att mäta arbetet i och t
 <br/><br/>
 ![LK icon](assets/logo.png)<br/>
 <br/>
-Nytt licensdatum satt till 2024-10-01.<br/>
+Nytt licensdatum satt till 2025-01-31.<br/>
 
 [Manual Project Time Tracker 1.5](assets/Manual_ProjectTimeTracker_1.5_20240402.pdf)
 -
