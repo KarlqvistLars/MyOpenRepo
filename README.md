@@ -11,5 +11,5 @@ Some small project:
 My homepage
 
 Contains:<br/>
-- The homepage: www.lkarlqvist.se<br/>
+- The homepage: www.larskarlqvist.se<br/>
 - Demo part where I experiment with som react js functions: www.lkarlqvist.se/music
