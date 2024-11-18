@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>7</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>91</x>
+      <y>294</y>
+      <w>245</w>
+      <h>196</h>
+    </coordinates>
+    <panel_attributes>*JobApplyOrganizer*
+Form
+--
+-- jobList : List&lt;JobApplication&gt;
+-- installpath : String
+--
+# public MainJobApplyOrganizer()
+# private void MainJobApplyOrganizer_Load()
+# private void ButtonExit_Click()
+# private void ButtonNew_Click()
+# private void ButtonSettings_Click()
+# private void ButtonUpdate_Click()
+# private void ButtonOpenHTML_Click()
+# private void ButtonMoveToArkiv_Click()
+# private void loadConfig()
+--
+Responsibilities
+-- Create HTML
+-- Update HTML</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>91</x>
+      <y>210</y>
+      <w>161</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>-
+Datum: 2024-10-04 - ver 1.003
+Creator: Lars Karlqvist
+Language: C#</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>91</x>
+      <y>672</y>
+      <w>245</w>
+      <h>133</h>
+    </coordinates>
+    <panel_attributes>*Update*
+Form/Button
+--
+- payload : String[]
+
+--
+# UpdateProject(String[] payload)
+# 
+# 
+--
+Responsibilities
+-- Uppdatera HTML-fil med n förndringar i materialet.</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>371</x>
+      <y>294</y>
+      <w>245</w>
+      <h>154</h>
+    </coordinates>
+    <panel_attributes>*New*
+Form
+--
+-- date :  DateTime
+-- application :  JobApplication
+-- installpath :  String
+-- pagename : String
+--
+# public NewJobProject()
+# private void buttonCancel_Click()
+# private void buttonCreate_Click()
+--
+Responsibilities
+-- Resp1
+*-- Resp2*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>371</x>
+      <y>672</y>
+      <w>245</w>
+      <h>133</h>
+    </coordinates>
+    <panel_attributes>*MoveToArchive*
+Button
+--
+- payload : String[]
+
+--
+# MoveToArchive(String[] payload)
+# 
+# 
+--
+Responsibilities
+-- Döpa om och flytta utdaterade jobb till arkivet</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>658</x>
+      <y>294</y>
+      <w>245</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>*OpenHTML*
+Button
+--
+- path : String
+- name : String 
+--
+# Open(String path, String name)
+# 
+# 
+--
+Responsibilities
+-- Öppna vald URL</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>91</x>
+      <y>511</y>
+      <w>245</w>
+      <h>133</h>
+    </coordinates>
+    <panel_attributes>*Settings*
+Form
+--
+-- installPath : String
+--
+# private void ButtonCancel_Click()
+# private void ButtonUpdate_Click()
+--
+Responsibilities
+-- Sätta arbetsbibliotek samt 
+övriga parametrar till setupfil</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>658</x>
+      <y>462</y>
+      <w>245</w>
+      <h>182</h>
+    </coordinates>
+    <panel_attributes>*JobApplication *
+Class
+--
+-- _path : string 
+-- _htmlname : string
+-- _contact : string 
+--
+*Constructor:*
+# public JobApplication(string path, string htmlname, string contact)
+--
+# public string Path { get; set; }
+# public string Htmlname { get; set; }
+# public string Contact { get; set; }
+# public string ToFile()
+--
+Responsibilities
+-- Platshållare för  varjen enskild  job post</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>371</x>
+      <y>476</y>
+      <w>245</w>
+      <h>168</h>
+    </coordinates>
+    <panel_attributes>*MakeHTML*
+Class
+--
+-- enum Type{TXT_Small, TXT, PDF, FOLD}
+--
+*Constructor*
+# public MakeHTML()
+--
+# public void CreateHTML()
+# public void MakeHeader()
+# public void MakeBodyPart()
+# public void MakeFooter()
+# static void CopyDirectory()
+# String[] SearchFolders()
+--
+Responsibilities
+-- Skapa Html documentet.</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
