@@ -17,7 +17,7 @@ En [video](https://www.youtube.com/watch?v=gyAhbyG3KOU) jag gjorde för att i ko
 Nedan de första idéskisserna.</br>
 
 ### First Sketch on project
-[UML](https://github.com/KarlqvistLars/JobApplyOrganizer/blob/main/UML/UML_JobApplyOrganizer_20241004.pdf)</br></br>
+[UML](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/UML/UML_JobApplyOrganizer_20241004.pdf))</br></br>
 
 ![Skiss](Pictures/20241003_100144.JPG)
 </br>
