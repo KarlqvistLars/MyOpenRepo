@@ -2,7 +2,7 @@
 Repo for display of previous work
 
 My latest C# .NET project.
-* [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/JobApplyOrganizer/README.md) - Reference project Started 2024-10-03. - ![Version](https://img.shields.io/badge/version-v1.0.0-blue)<br><br>
+* [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/JobApplyOrganizer/README.md) - Reference project Started 2024-10-03. - ![Version](https://img.shields.io/badge/version-v1.1.0-blue)<br><br>
 Erlier projects.
 * [PasswordGenerator](PasswordGenerator/README.md) - Is a program to generate random passwords.
 * [ProjectTimeTracker](ProjectTimeTracker/README.md) -  Is a program written in C#/.NET to keep track on worktime in projects (Manual in Swedish).
