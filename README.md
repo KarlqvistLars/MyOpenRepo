@@ -1,8 +1,8 @@
 # MyOpenRepo
 Repo for display of previous work
 
-My latest C# .NET project.<br>
-  ![Version](https://img.shields.io/badge/version-v1.1-lime)<br>
+My latest C# .NET project.<br><br>
+  ![Version](https://img.shields.io/badge/version-v1.1-lime)
 * [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/JobApplyOrganizer/README.md) - Reference project Started 2024-10-03. <br><br>
 Erlier projects.
 * [PasswordGenerator](PasswordGenerator/README.md) - Is a program to generate random passwords.
