@@ -1,7 +1,7 @@
 # MyOpenRepo
 Repo for display of previous work
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/KarlqvistLars/MyOpenRepo/releases/tag/v1.1.0)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer)
 My latest C# .NET project.
 * [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/JobApplyOrganizer/README.md) - Reference project Started 2024-10-03.<br><br>
 Erlier projects.
