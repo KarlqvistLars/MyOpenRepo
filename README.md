@@ -9,8 +9,6 @@ My latest C# .NET project.<br><br>
 Erlier projects.
 * [ProjectTimeTracker](ProjectTimeTracker/README.md) -  Is a program written in C#/.NET to keep track on worktime in projects (Manual in Swedish).<br>
 ProjectTimeTracker är Utdaterad - Beräknas vara updaterad till slutet av juli 2025.
-<br>
-
 # HomePageLK
 My homepage
 
