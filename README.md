@@ -7,9 +7,9 @@ My latest C# .NET project.<br><br>
 
 * [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/JobApplyOrganizer/README.md) - Reference project Started 2024-10-03. <br><br>
 Erlier projects.
-* [PasswordGenerator](PasswordGenerator/README.md) - Is a program to generate random passwords.
-* [ProjectTimeTracker](ProjectTimeTracker/README.md) -  Is a program written in C#/.NET to keep track on worktime in projects (Manual in Swedish).
-* [DiaryApp](DiaryApp/README.md) - Is a exercise in Java to create diary posts in .txt formats.
+* [ProjectTimeTracker](ProjectTimeTracker/README.md) -  Is a program written in C#/.NET to keep track on worktime in projects (Manual in Swedish).<br>
+- Utdaterad - Beräknas vara updaterad till slutet av juli 2025.
+<br>
 
 # HomePageLK
 My homepage
