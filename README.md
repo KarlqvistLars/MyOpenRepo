@@ -7,6 +7,7 @@ My latest C# .NET project.<br><br>
 
 * [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/JobApplyOrganizer/README.md) - Reference project Started 2024-10-03. <br><br>
 Erlier projects.
+* [PasswordGenerator](PasswordGenerator/README.md) - Is a program to generate random passwords.<br>
 * [ProjectTimeTracker](ProjectTimeTracker/README.md) -  Is a program written in C#/.NET to keep track on worktime in projects (Manual in Swedish).<br>
 ProjectTimeTracker är Utdaterad - Beräknas vara updaterad till slutet av juli 2025.
 # HomePageLK
