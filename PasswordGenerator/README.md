@@ -6,5 +6,6 @@ Free to use for those who like it.</br>
 This is written and tested on a Windows 11 system.</br>
 
 Download and tryout [HERE](SetupPassWordGenerator20250715.msi).
+![Knapp nedladding](../JopApplyOrganizer/Pictures/BildNedladdning.png)
 
 [Disclamer](disclamer.md)
