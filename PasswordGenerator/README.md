@@ -6,6 +6,6 @@ Free to use for those who like it.</br>
 This is written and tested on a Windows 11 system.</br>
 
 Download and tryout [HERE](SetupPassWordGenerator20250715.msi).<br>
-![Knapp nedladding](BildNedladdning.png)
+![BildNedladdning.png](SetupPassWordGenerator20250715.msi)
 
 [Disclamer](disclamer.md)
