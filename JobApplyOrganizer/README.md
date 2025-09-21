@@ -9,6 +9,7 @@ Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arb
   <br>
 ### NY VERSION 1.2 SLÄPPT 2025-09-21
 <br>
+
 ### Resultatet en månad senare 2024-11-03
 ![Skiss](Pictures/Programbild.png)
 </br>
