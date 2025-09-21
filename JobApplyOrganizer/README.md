@@ -5,9 +5,10 @@
 Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arbeta med.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/KarlqvistLars/MyOpenRepo)
-  ![Version](https://img.shields.io/badge/version-v1.1-lime)
-
-
+  ![Version](https://img.shields.io/badge/version-v1.2-lime)
+  <br>
+  <span style="background-color: #FFFF00">NY VERSION SLÄPPT 2025-09-21</span>
+<br>
 ### Resultatet en månad senare 2024-11-03
 ![Skiss](Pictures/Programbild.png)
 </br>
