@@ -6,8 +6,8 @@ My latest C# .NET project.<br><br>
 ![Version](https://img.shields.io/badge/version-v1.2-lime)
 
 * [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/JobApplyOrganizer/README.md) - Reference project Started 2024-10-03 -
-* ### Updated 2025-09-21. ###
-* <br><br>
+### Updated 2025-09-21. ###
+<br><br>
 Erlier projects.
 * [PasswordGenerator](PasswordGenerator/README.md) - Is a program to generate random passwords.<br>
 * [ProjectTimeTracker](ProjectTimeTracker/README.md) -  Is a program written in C#/.NET to keep track on worktime in projects (Manual in Swedish).<br>
