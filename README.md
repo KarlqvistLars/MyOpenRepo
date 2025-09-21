@@ -3,7 +3,7 @@ Repo for display of previous work
 
 My latest C# .NET project.<br><br>
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/KarlqvistLars/MyOpenRepo)
-![Version](https://img.shields.io/badge/version-v1.1-lime)
+![Version](https://img.shields.io/badge/version-v1.2-lime)
 
 * [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/JobApplyOrganizer/README.md) - Reference project Started 2024-10-03. <br><br>
 Erlier projects.
