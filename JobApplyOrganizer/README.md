@@ -7,7 +7,7 @@ Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arb
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/KarlqvistLars/MyOpenRepo)
   ![Version](https://img.shields.io/badge/version-v1.2-lime)
   <br>
-### NY VERSION 1.2 SLÄPPT 2025-09-21
+### NY VERSION 1.2 SLÄPPT 2025-09-22
 Nyhterna är funktioner för att öppna sparad jobbannons direkt, öppna template biblioteket direkt, spara sökta jobb i en *.csv fil för att kunna koiera till excel samt en funktion för att kunna gå direkt till manualen för denna programvara.
 
 ### Resultatet en månad senare 2024-11-03
