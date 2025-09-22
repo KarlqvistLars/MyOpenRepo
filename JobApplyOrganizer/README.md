@@ -5,16 +5,18 @@
 Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arbeta med.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/KarlqvistLars/MyOpenRepo)
-  ![Version](https://img.shields.io/badge/version-v1.1-lime)
-
+  ![Version](https://img.shields.io/badge/version-v1.2-lime)
+  <br>
+### NY VERSION 1.2 SLÄPPT 2025-09-21
+Nyhterna är funktioner för att öppna sparad jobbannons direkt, öppna template biblioteket direkt, spara sökta jobb i en *.csv fil för att kunna koiera till excel samt en funktion för att kunna gå direkt till manualen för denna programvara.
 
 ### Resultatet en månad senare 2024-11-03
 ![Skiss](Pictures/Programbild.png)
 </br>
-Manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_1.1_20241102.pdf)</br>
+Manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_1.2_20250921.pdf)</br>
 </br>
-Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer1.1/JobApplyOrganizerSetup20241109.msi)</br>
-[![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer1.1/JobApplyOrganizerSetup20241109.msi)
+Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer1.2/JobApplyOrganizerSetup20250921.msi)</br>
+[![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer1.2/JobApplyOrganizerSetup20250921.msi)
 </br>
 
 En [video](https://www.youtube.com/watch?v=gyAhbyG3KOU) jag gjorde för att i korthet berätta vad programmet är tänkt till. </br></br>
