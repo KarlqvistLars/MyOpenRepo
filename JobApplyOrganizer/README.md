@@ -13,7 +13,7 @@ Nyhterna är funktioner för att öppna sparad jobbannons direkt, öppna templat
 ### Resultatet en månad senare 2024-11-03
 ![Skiss](Pictures/Programbild.png)
 </br>
-Manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_1.2_20250922.pdf)</br>
+Manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_1.2_20250921.pdf)</br>
 </br>
 Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer1.2/JobApplyOrganizerSetup20250925.msi)</br>
 [![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer1.2/JobApplyOrganizerSetup20250925.msi)
