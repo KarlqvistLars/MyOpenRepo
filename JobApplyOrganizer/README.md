@@ -9,6 +9,7 @@ Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arb
   <br>
 ### NY VERSION 1.2 SLÄPPT 2025-09-22 (Ny filterfunktion tillagd 2025-09-30)
 Nyhterna är funktioner för att öppna sparad jobbannons direkt, öppna template biblioteket direkt, spara sökta jobb i en *.csv fil för att kunna kopiera till excel samt en funktion för att kunna gå direkt till manualen för denna programvara.
+![Filter](Pictures/Filterfunc.png)
 
 ### Resultatet en månad senare 2024-11-03
 ![Skiss](Pictures/Programbild.png)
