@@ -12,10 +12,10 @@ Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arb
 
 ![Skiss](Pictures/Programbild2.png)
 </br>
-##Ny manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_1.2_20250930.pdf)</br>
+##Ny manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_2.0_20251005.pdf)</br>
 </br>
-Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizerSetup20251005.msi)</br>
-[![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizerSetup20251005.msi)
+Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizerSetup_20251005.msi)</br>
+[![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizerSetup_20251005.msi)
 </br>
 <br>
 ### NY VERSION 1.2 SLÄPPT 2025-09-22 (Ny filterfunktion tillagd 2025-09-30)
