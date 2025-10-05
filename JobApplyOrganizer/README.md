@@ -16,7 +16,7 @@ Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arb
 </br>
 Installationsfilen för Windows 10 eller 11 kan laddas ner [här](JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20251005.msi)
 </br>
-[![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizerSetup_20251005.msi)
+[![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20251005.msi)
 </br>
 <br>
 ### NY VERSION 1.2 SLÄPPT 2025-09-22 (Ny filterfunktion tillagd 2025-09-30)
