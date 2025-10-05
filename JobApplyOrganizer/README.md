@@ -15,7 +15,7 @@ Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arb
 ### Ny manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_2.0_20251005.pdf)</br>
 </br>
 
-Installationsfilen för Windows 10 eller 11 kan laddas ner [här](JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20251005.msi)
+Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20251005.msi)
 </br>
 [![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20251005.msi)
 </br>
