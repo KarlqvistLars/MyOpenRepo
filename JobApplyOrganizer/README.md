@@ -5,17 +5,19 @@
 Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arbeta med.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/KarlqvistLars/MyOpenRepo)
-  ![Version](https://img.shields.io/badge/version-v1.2-lime)
+  ![Version](https://img.shields.io/badge/version-v2.0-lime)
 <br>
 ### NYTT OMARBETAT UI VERSION 2.0 SLÄPPT 2025-10-05
 
 ![Skiss](Pictures/Programbild2.png)
 </br>
 
-## Ny manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_2.0_20251005.pdf)</br>
+### Ny manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_2.0_20251005.pdf)</br>
 </br>
-Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizerSetup_20251005.msi)</br>
-[![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizerSetup_20251005.msi)
+
+Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20251005.msi)
+</br>
+[![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20251005.msi)
 </br>
 <br>
 ### NY VERSION 1.2 SLÄPPT 2025-09-22 (Ny filterfunktion tillagd 2025-09-30)
