@@ -14,11 +14,10 @@ Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arb
 #### Ny manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_2.0_20251005.pdf)
 
 #### Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20251005.msi)
-</br>
 
 [![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20251005.msi)
-</br>
-<br>
+<br/>
+<br/>
 ### NY VERSION 1.2 SLÄPPT 2025-09-22 (Ny filterfunktion tillagd 2025-09-30)
 Nyhterna är funktioner för att öppna sparad jobbannons direkt, öppna template biblioteket direkt, spara sökta jobb i en *.csv fil för att kunna kopiera till excel samt en funktion för att kunna gå direkt till manualen för denna programvara.<br><br>
 Nu även en praktisk filterfunktion över listrutorna med sökta jobb så att det är lättare att hitta en specifik ansökan fortare.
