@@ -13,7 +13,7 @@ Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arb
 
 #### Ny manual hittar ni här - [Manual_för_JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/Docs/Manual_JobApplyOrganizer_2.0_20251005.pdf)
 
-## Bugfix 2025-10-12 - För att få fönsteraktiveringen korrket i listrutorna så smög det sig in en liten glitch som nu är tillrättad. Ifall någon ev. laddat den en version av installationsprogrammer innehöll en bugg mellan dagarna 2025-10-08 till 2025-10-12 så kan det ev. ha varit fel. Men gällande version fungerar.
+##### Bugfix 2025-10-12 - För att få fönsteraktiveringen korrket i listrutorna så smög det sig in en liten glitch som nu är tillrättad. Ifall någon ev. laddat den en version av installationsprogrammer innehöll en bugg mellan dagarna 2025-10-08 till 2025-10-12 så kan det ev. ha varit fel. Men gällande version fungerar.
 
 #### Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20251012.msi)
 
