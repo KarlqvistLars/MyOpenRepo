@@ -1,7 +1,7 @@
 # MyOpenRepo
 Repo for display of previous work
 
-My first Java proj is up for modification. <br><br>
+My first Java proj is up for modification. <br>
 * [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/DiaryApp/README.md)
 
 My latest C# .NET project.<br><br>
