@@ -6,5 +6,5 @@ The plan for this projekt is to first just create a working version of the progr
 
 # Update README.md 2025-11-13: </br>
 
-A new GUI in written in JavaFX instead of Swing. And also completion of the programfuncs, started 2025-11-11.<br><br>
+A new GUI written in JavaFX instead of Swing. And also completion of the programfuncs, started 2025-11-11.<br><br>
 ![UML DiaryApp](assets/diaryAppGUIv4.png)<br>
