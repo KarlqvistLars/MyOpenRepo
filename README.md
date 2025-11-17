@@ -2,7 +2,7 @@
 Repo for display of previous work
 
 My first Java proj is now up for modification. <br>
-* [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/DiaryApp/README.md)
+* [DiaryApp](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/DiaryApp/README.md)
 
 ### See also my C# projects :arrow_down:
 
