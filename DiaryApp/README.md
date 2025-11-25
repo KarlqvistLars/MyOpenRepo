@@ -10,3 +10,4 @@ The plan for this projekt is to first just create a working version of the progr
 
 A new GUI written in JavaFX instead of Swing. And also completion of the programfuncs, started 2025-11-11.<br><br>
 ![UML DiaryApp](assets/diaryAppGUIv4.png)<br>
+<br>[<<BACK](../README.md)
