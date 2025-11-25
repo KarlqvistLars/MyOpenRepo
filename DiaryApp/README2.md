@@ -8,5 +8,4 @@ I will do this on my spare time.</br>
 The realesed version is avalibel in directory.<br/>
 https://github.com/KarlqvistLars/MyOpenRepo/tree/main/DiaryApp/testRealese
 # Realese 2.0 can be downloaded here
-https://github.com/KarlqvistLars/DiaryApp
 [DiaryApp 2.0](testRealese/DiaryAppVer.2.0.zip)
