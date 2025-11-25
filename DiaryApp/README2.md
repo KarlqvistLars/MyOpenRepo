@@ -7,5 +7,6 @@ I will do this on my spare time.</br>
 [Manual DiaryApp 1.1](testRealese/ManualDiaryAppVersion1.1_20220529.pdf)<br/><br/>
 The realesed version is avalibel in directory.<br/>
 https://github.com/KarlqvistLars/MyOpenRepo/tree/main/DiaryApp/testRealese
-# Realese 1.2 can be found here
+# Realese 2.0 can be downloaded here
 https://github.com/KarlqvistLars/DiaryApp
+[DiaryApp 2.0](testRealese/DiaryAppVer.2.0.zip)
