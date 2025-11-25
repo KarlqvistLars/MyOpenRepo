@@ -9,3 +9,5 @@ Download and tryout [HERE](SetupPassWordGenerator20250715.msi).<br>
 [![Bild](BildNedladdning.png)](SetupPassWordGenerator20250715.msi)
 
 [Disclamer](disclamer.md)
+<br><br>
+[<<BACK](../README.md)
