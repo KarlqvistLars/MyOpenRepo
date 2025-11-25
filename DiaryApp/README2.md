@@ -7,7 +7,7 @@ You also need to download JavaFX and it can be found [here](https://gluonhq.com/
 Then it is necessary to load the **javafx** from the location you have unpacked it.<br>
 In the file StartApp.bat. Change the module path "C:\Tools\Java\JavaFX\javafx-sdk-25.0.1\lib" to the place where you install the JavaFX.
 ![DiaryApp files](assets/DiaryApp_files.jpg)
-<br><br>
+<br>
 Download and unpack the zip file in suitible location. And the [Manual DiaryApp 1.1](testRealese/ManualDiaryAppVersion1.1_20220529.pdf) cloese enough to get a hang how it works. But not perfect so an updated manual will com in the future.
 <br><br>
 # Realese version 1.1.
