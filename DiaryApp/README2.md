@@ -14,3 +14,5 @@ Download and unpack the zip file in suitible location. And the [Manual DiaryApp 
 [Manual DiaryApp 1.1](testRealese/ManualDiaryAppVersion1.1_20220529.pdf)<br/><br/>
 The realesed version is avalibel in directory.<br/>
 https://github.com/KarlqvistLars/MyOpenRepo/tree/main/DiaryApp/testRealese
+<br><br>
+[<<BACK](../README.md)
