@@ -1,6 +1,8 @@
 # DiaryApp 2.0
-To make this app fly You need to have Java JDKv25 installed. It can be founde [here](https://www.oracle.com/java/technologies/downloads/#java25). <br>
+To make this app fly You need to have Java JDKv25 installed. It can be found [here](https://www.oracle.com/java/technologies/downloads/#java25). <br>
 You also need to download JavaFX and it can be found [here](https://gluonhq.com/products/javafx/). <br>
+- Then it is necessary to load the **javafx** from the location you have unpacked it.<br>
+- In the file StartApp.bat. Change the module path "C:\Tools\Java\JavaFX\javafx-sdk-25.0.1\lib" to the place where you install te JavaFX.
 ![DiaryApp files](assets/DiaryApp_files.jpg)
 <br><br>
 # Realese 2.0 can be downloaded here
