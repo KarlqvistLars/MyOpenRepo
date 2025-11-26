@@ -13,3 +13,4 @@ Nytt licensdatum satt till 2026-06-01.<br/>
 -
 [Download Project TimeTracker 1.5.1](assets/TimeTrackerSetup20250714.msi)
 -
+<br>[<<BACK](../README.md)
