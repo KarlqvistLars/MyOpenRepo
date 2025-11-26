@@ -5,6 +5,7 @@ The plan for this projekt is to first just create a working version of the progr
 </br>
 # Update README.md 2025-11-25: </br>
 Short video demo [here](https://youtu.be/3V9bc_yBKbQ).<br>
+![Link to YouTube](pics/YouTubeLogo.png)<br>
 [DiaryApp 2.0 downloads](README2.md)
 
 # Update README.md 2025-11-13: </br>
