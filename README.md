@@ -1,6 +1,6 @@
 # MyOpenRepo
 
-### You find a Christmas gift <ins>[here.](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/MasterMind/README.md)</ins><br>
+### You will find a Christmas gift <ins>[here.](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/MasterMind/README.md)</ins><br>
 ![GodJul](MasterMind/assets/GodJul.png)
 <br/>
 Repo for display of previous work <br/>
