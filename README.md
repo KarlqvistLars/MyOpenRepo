@@ -1,5 +1,6 @@
 # MyOpenRepo
-<span style="text-decoration: underline;">Underline test</span>
+<ins>Underline test</ins>
+
 
 ### You find a Christmas gift [here.](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/MasterMind/README.md)<br>
 ![GodJul](MasterMind/assets/GodJul.png)
