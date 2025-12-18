@@ -1,6 +1,6 @@
 # MyOpenRepo
 
-
+You find a Christmas gift [her.](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/MasterMind/README.md)
 ![GodJul](MasterMind/assets/GodJul.png)
 <br/>
 Repo for display of previous work <br/>
