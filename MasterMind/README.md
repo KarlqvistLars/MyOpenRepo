@@ -6,7 +6,7 @@ Nu beror inte det på att jag har en särskild fabless för just Windows. Men de
 ![Spelet](assets/MMexempel.bmp)<br/>
 <br/>
 ### Spelet
-Spelet går ut på att hitta en hemlig kombination. Regler och längre beskrivning finns under den blå infoknappen märkt med ett **i**.
+Spelet går ut på att hitta en hemlig kombination. Regler och längre beskrivning finns under den blå infoknappen märkt med ett **i**.<br/>
 ![Spelet](assets/MasterMindJulhälsning.png)<br/>
 Programvaran kommer att vara brukbar till 2026-03-24.<br/><br/>
 [Download MasterMind<br/>
