@@ -7,9 +7,9 @@ Nu beror inte det på att jag har en särskild fabless för just Windows. Men de
 <br/><br/>
 ### Spelet<br/>
 Spelet går ut på att hitta en hemlig kombination. Regler och längre beskrivning finns under den blå infoknappen märkt med ett **i**.
-<br/>
+<br/><br/>
 ![Spelet](assets/MasterMindJulhälsning.png)<br/>
 <br/>
-Programvaran kommer att vara brukbar till 2026-03-24.<br/><br/><br/>
+Programvaran kommer att vara brukbar till 2026-03-24.<br/><br/>
 [Download MasterMind](download/SetupMasterMind.msi)<br/>
 <br>[<<BACK](../README.md)
