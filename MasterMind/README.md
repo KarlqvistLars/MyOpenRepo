@@ -12,6 +12,6 @@ Spelet går ut på att hitta en hemlig kombination. Regler och längre beskrivni
 <br/>
 Programvaran kommer att vara brukbar till 2026-03-24.<br/><br/>
 [Download MasterMind<br/>
-![DownLoad](assets/DownloadHere.png) ](download/SetupMasterMind.msi)
+![DownLoad](assets/DownloadHere.pn) ](download/SetupMasterMind.msi)
 
 <br>[<<BACK](../README.md)
