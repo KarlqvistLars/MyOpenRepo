@@ -3,7 +3,7 @@
 ### You find a Christmas gift [here.](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/MasterMind/README.md)<br>
 ![GodJul](MasterMind/assets/GodJul.png)
 <br/>
-<u>Repo</u> for display of previous work <br/>
+Repo for display of previous work <br/>
 My first Java proj is now up for modification. <br>
 * [DiaryApp](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/DiaryApp/README.md)
 
