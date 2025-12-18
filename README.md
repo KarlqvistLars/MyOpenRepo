@@ -1,7 +1,8 @@
 # MyOpenRepo
 Repo for display of previous work
 
-![Version](http)
+![GodJul](MasterMind/assets/GodJul.png)
+<br/>
 
 My first Java proj is now up for modification. <br>
 * [DiaryApp](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/DiaryApp/README.md)
