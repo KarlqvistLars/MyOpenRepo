@@ -2,7 +2,6 @@
 
 ### My lastet fun project.
 Made in December 2025. You can find [here.](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/MasterMind/README.md)
-
 <br/>
 Repo for display of previous work <br/>
 My first Java proj is now up for modification. <br>
