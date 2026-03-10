@@ -1,7 +1,8 @@
 # MyOpenRepo
 
-### You will find a Christmas gift <ins>[here.](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/MasterMind/README.md)</ins><br>
-![GodJul](MasterMind/assets/GodJul.png)
+### You will find a Christmas gift
+[here.](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/MasterMind/README.md)
+
 <br/>
 Repo for display of previous work <br/>
 My first Java proj is now up for modification. <br>
