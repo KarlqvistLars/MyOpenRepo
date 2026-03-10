@@ -5,7 +5,7 @@ Made in December 2025. You can find [here.](https://github.com/KarlqvistLars/MyO
 <br/>
 ## Repo for display of previous work <br/>
 My first Java proj is now up for modification. <br>
-[TEST](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/DiaryApp/README.md)
+[DiaryApp](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/DiaryApp/README.md)
 
 ### See also my C# projects :arrow_down:
 
