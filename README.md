@@ -1,12 +1,12 @@
 # MyOpenRepo
 
-### You will find a Christmas gift
-![here.](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/MasterMind/README.md)
+### My lastet fun project.
+[here.](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/MasterMind/README.md)
 
 <br/>
 Repo for display of previous work <br/>
 My first Java proj is now up for modification. <br>
-![DiaryApp](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/DiaryApp/README.md)
+[DiaryApp](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/DiaryApp/README.md)
 
 ### See also my C# projects :arrow_down:
 
