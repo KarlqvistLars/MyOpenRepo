@@ -1,7 +1,7 @@
 # MyOpenRepo
 
 ### You will find a Christmas gift
-[here.](https://github.com/KarlqvistLars/MyOpenRepo/tree/main/MasterMind/README.md)
+![here.](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/MasterMind/README.md)
 
 <br/>
 Repo for display of previous work <br/>
