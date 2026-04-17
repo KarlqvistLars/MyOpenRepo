@@ -13,7 +13,7 @@ My latest C# .NET project.<br>
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/KarlqvistLars/MyOpenRepo)
 ![Version](https://img.shields.io/badge/version-v1.2-lime)
 
-* [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20260417.msi) - Reference project Started 2024-10-03 - Updated 2025-09-30. <br><br>
+* [JobApplyOrganizer](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/README.md) - Reference project Started 2024-10-03 - Updated 2025-09-30. <br><br>
 Erlier projects.
 * [PasswordGenerator](PasswordGenerator/README.md) - Is a program to generate random passwords.<br>
 * [ProjectTimeTracker](ProjectTimeTracker/README.md) -  Is a program written in C#/.NET to keep track on worktime in projects (Manual in Swedish).<br>
