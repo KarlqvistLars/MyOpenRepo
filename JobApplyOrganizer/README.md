@@ -9,7 +9,7 @@ Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arb
 ![Version](https://img.shields.io/badge/version-v2.0-lime)
 <br>
 
-### NYTT OMARBETAT UI VERSION 2.0 SLÄPPT 2025-10-05 - Öppen att använda fram till 2026-05-15
+### NYTT OMARBETAT UI VERSION 2.0 SLÄPPT 2025-10-05 - Öppen att använda fram till 2026-08-31
 
 ![Skiss](Pictures/Programbild2.png)
 </br>
@@ -20,9 +20,9 @@ Att samtidigt både leta efter ett arbete, samt öva på det man önskar att arb
 
 ##### För att få fönsteraktiveringen korrket i listrutorna så smög det sig in en liten glitch som nu är tillrättad. Ifall någon ev. laddat den en version av installationsprogrammet mellan dagarna 2025-10-08 till 2025-10-12 som innehöll en felaktighet. Men gällande version 20251012 fungerar.
 
-#### Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20260202.msi)
+#### Installationsfilen för Windows 10 eller 11 kan laddas ner [här](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20260417.msi)
 
-[![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20260202.msi)
+[![Knapp nedladding](Pictures/BildNedladdning.png)](https://github.com/KarlqvistLars/MyOpenRepo/blob/main/JobApplyOrganizer/SetupVer2.0/JobApplyOrganizer2.0_20260417.msi)
 <br/>
 <br/>
 
